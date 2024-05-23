@@ -1,0 +1,615 @@
+{
+    "characters": [
+      {
+        "id": "char-001",
+        "name": "Ribrianne",
+        "universe": 2,
+        "race": "Human",
+        "description": "Ribrianne is a warrior from Universe 2, known for her belief in the power of love. She transforms into her magical girl form to spread love and justice wherever she goes.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Ribriannepro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Rbrianne.webp",
+        "abilities": ["Pretty Cannon", "Ribrianne Eternal Love"],
+        "transformation": ["Ribrianne of Love"],
+        "team":{
+            "id": "team-2",
+            "name": "Universe 2",
+            "god_of_destruction": "Heles",
+            "angel": "Heles' Angel",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-002",
+        "name": "Kakunsa",
+        "universe": 2,
+        "race": "Unknown",
+        "description": "Kakunsa is a warrior from Universe 2 who fights alongside Ribrianne. She possesses great agility and strength, making her a formidable opponent in battle.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Kakunsapro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Kakunsa.webp",
+        "abilities": ["Flash Claw", "Light of Love", "Mystic Attack", "Ki Blast Arts"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-2",
+            "name": "Universe 2",
+            "god_of_destruction": "Heles",
+            "angel": "Heles' Angel",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-003",
+        "name": "Roasie",
+        "universe": 2,
+        "race": "Unknown",
+        "description": "Roasie is a warrior from Universe 2 who fights alongside Ribrianne and Kakunsa. She possesses exceptional speed and agility, making her a valuable asset in battle.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Roasiepro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Rozie.jpeg",
+        "abilities": ["Light of Love", "Love Symphony", "Yacchaina Fist"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-2",
+            "name": "Universe 2",
+            "god_of_destruction": "Heles",
+            "angel": "Heles' Angel",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-004",
+        "name": "Jimizu",
+        "universe": 2,
+        "race": "Unknown",
+        "description": "Jimizu is a warrior from Universe 2 who possesses the ability to teleport. He uses his teleportation skills to outmaneuver his opponents in battle.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Jimizu.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Jimizu.webp",
+        "abilities": ["Teleportation"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-2",
+            "name": "Universe 2",
+            "god_of_destruction": "Heles",
+            "angel": "Heles' Angel",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        
+          
+            "id": "char-011",
+            "name": "Paparoni",
+            "universe": 3,
+            "race": "Unknown",
+            "description": "Paparoni is a brilliant scientist from Universe 3. He is the leader of Team Universe 3 and the mastermind behind many of their strategies in the Tournament of Power.",
+            "available": true,
+            "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Paparonirpro.png",
+            "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Paparonii.webp",
+            "abilities": ["Unknown"],
+            "transformation": ["Unknown"],
+            "team":{
+                "id": "team-3",
+            "name": "Universe 3",
+            "god_of_destruction": "Mosco",
+            "angel": "Mojito",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+            }
+          },
+          {
+            "id": "char-012",
+            "name": "Agnilasa",
+            "universe": 3,
+            "race": "Unknown",
+            "description": "Agnilasa is a fusion warrior from Universe 3, created by Paparoni using the power of the Potara earrings. Agnilasa is a formidable opponent with immense strength and power.",
+            "available": true,
+            "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Agnilasapro.png",
+            "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Agnilasa.webp",
+            "abilities": ["Unknown"],
+            "transformation": ["Unknown"],
+            "team":{
+                "id": "team-3",
+            "name": "Universe 3",
+            "god_of_destruction": "Mosco",
+            "angel": "Mojito",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+            }
+          },
+          {
+            "id": "char-013",
+            "name": "Maji-Kayo",
+            "universe": 3,
+            "race": "Unknown",
+            "description": "Maji-Kayo is a mysterious warrior from Universe 3 who possesses the ability to shapeshift. He uses his shapeshifting abilities to confuse and outmaneuver his opponents.",
+            "available": true,
+            "profilePicture":"https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Maji-Kayopro.png",
+            "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Maji_Kayo.webp",
+            "abilities": ["Shapeshifting"],
+            "transformation": ["Unknown"],
+            "team":{
+                "id": "team-3",
+            "name": "Universe 3",
+            "god_of_destruction": "Mosco",
+            "angel": "Mojito",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+            }
+          },
+          {
+            "id": "char-014",
+            "name": "Catopesra",
+            "universe": 3,
+            "race": "Unknown",
+            "description": "Catopesra is a warrior from Universe 3 known for his chivalrous personality and dedication to justice. He fights with honor and valor, upholding the ideals of knighthood.",
+            "available": true,
+            "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Catopesrapro.png",
+            "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Catopesra.webp",
+            "abilities": ["Justice Flash", "Justice Bomber"],
+            "transformation": ["Unknown"],
+            "team":{
+                "id": "team-3",
+            "name": "Universe 3",
+            "god_of_destruction": "Mosco",
+            "angel": "Mojito",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+            }
+      },
+      {
+        "id": "char-009",
+        "name": "Ganos",
+        "universe": 4,
+        "race": "Unknown",
+        "description": "Ganos is a warrior from Universe 4 who has the ability to transform into a bird-like form. This transformation grants him enhanced speed and agility.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Ganospro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Ganos.webp",
+        "abilities": ["Transformation", "Enhanced Speed", "Enhanced Agility"],
+        "transformation": ["Bird Form"],
+        "team":{
+            "id": "team-4",
+            "name": "Universe 4",
+            "god_of_destruction": "Quitela",
+            "angel": "Cukatail",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-010",
+        "name": "Nink",
+        "universe": 4,
+        "race": "Unknown",
+        "description": "Nink is a muscular warrior from Universe 4 known for his brute strength. He uses his physical power to overpower his opponents in battle.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Ninkpro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Nink.jpeg",
+        "abilities": ["Super Strength"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-4",
+            "name": "Universe 4",
+            "god_of_destruction": "Quitela",
+            "angel": "Cukatail",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-011",
+        "name": "Monna",
+        "universe": 4,
+        "race": "Unknown",
+        "description": "Monna is a spherical warrior from Universe 4 who can roll into a ball to attack her enemies. She uses her unique body shape to her advantage in combat.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Monnapro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Monna.webp",
+        "abilities": ["Rolling Attack"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-4",
+            "name": "Universe 4",
+            "god_of_destruction": "Quitela",
+            "angel": "Cukatail",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-012",
+        "name": "Majora",
+        "universe": 4,
+        "race": "Unknown",
+        "description": "Majora is a powerful warrior from Universe 4 who possesses incredible strength and durability. He is a fierce combatant who relies on brute force to overwhelm his opponents.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Majorapro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Majora.webp",
+        "abilities": ["Super Strength", "Durability"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-4",
+            "name": "Universe 4",
+            "god_of_destruction": "Quitela",
+            "angel": "Cukatail",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-013",
+        "name": "Hit",
+        "universe": 6,
+        "race": "Unknown",
+        "description": "Hit is an assassin from Universe 6, known for his ability to manipulate time. He is a calm and collected fighter with immense power and skill.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Hitpro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Hit.jpeg",
+        "abilities": ["Time-Skip", "Intangibility", "Improvised Time-Skip"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-6",
+            "name": "Universe 6",
+            "god_of_destruction": "Champa",
+            "angel": "Vados",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-014",
+        "name": "Cabba",
+        "universe": 6,
+        "race": "Saiyan",
+        "description": "Cabba is a Saiyan from Universe 6 who is dedicated to protecting his home planet. He has a strong sense of justice and strives to become stronger to protect those he cares about.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Cabbapro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Cabba.jpeg",
+        "abilities": ["Super Saiyan Transformation", "Energy Blast"],
+        "transformation": ["Super Saiyan"],
+        "team":{
+            "id": "team-6",
+            "name": "Universe 6",
+            "god_of_destruction": "Champa",
+            "angel": "Vados",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-015",
+        "name": "Caulifla",
+        "universe": 6,
+        "race": "Saiyan",
+        "description": "Caulifla is a Saiyan from Universe 6 known for her rebellious and headstrong nature. She quickly learns to transform into a Super Saiyan and continues to grow stronger.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Cauliflapro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Caulifla.jpeg",
+        "abilities": ["Super Saiyan Transformation", "Energy Blast"],
+        "transformation": ["Super Saiyan", "Super Saiyan 2"],
+        "team":{
+            "id": "team-6",
+            "name": "Universe 6",
+            "god_of_destruction": "Champa",
+            "angel": "Vados",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-016",
+        "name": "Kale",
+        "universe": 6,
+        "race": "Saiyan",
+        "description": "Kale is a Saiyan from Universe 6 who transforms into a Berserk Saiyan when she loses control of her emotions. She possesses immense strength and power in her transformed state.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Kalepro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Kale.jpeg",
+        "abilities": ["Berserk Transformation", "Energy Blast"],
+        "transformation": ["Berserk Saiyan"],
+        "team":{
+            "id": "team-6",
+            "name": "Universe 6",
+            "god_of_destruction": "Champa",
+            "angel": "Vados",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-017",
+        "name": "Goku",
+        "universe": 7,
+        "race": "Saiyan",
+        "description": "Goku is a Saiyan warrior from Universe 7 known for his insatiable hunger for battle and relentless pursuit of strength. He has achieved numerous powerful transformations.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Gokupro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Goku.jpeg",
+        "abilities": ["Kamehameha", "Instant Transmission", "Spirit Bomb"],
+        "transformation": ["Super Saiyan", "Super Saiyan Blue", "Ultra Instinct"],
+        "team":{
+          "id": "team-7",
+          "name": "Universe 7",
+          "god_of_destruction": "Beerus",
+          "angel": "Whis",
+          "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+      }
+      },
+      {
+        "id": "char-018",
+        "name": "Vegeta",
+        "universe": 7,
+        "race": "Saiyan",
+        "description": "Vegeta is the prince of the Saiyan race from Universe 7. He is a proud and fierce warrior who continually seeks to surpass Goku and become the strongest.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Vegetapro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Vegeta.webp",
+        "abilities": ["Galick Gun", "Final Flash", "Big Bang Attack"],
+        "transformation": ["Super Saiyan", "Super Saiyan Blue", "Super Saiyan Blue Evolution"],
+        "team":{
+            "id": "team-7",
+            "name": "Universe 7",
+            "god_of_destruction": "Beerus",
+            "angel": "Whis",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-019",
+        "name": "Gohan",
+        "universe": 7,
+        "race": "Half-Saiyan",
+        "description": "Gohan is the son of Goku and a half-Saiyan from Universe 7. He is a skilled fighter who balances his scholarly pursuits with his fighting abilities.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Gohanpro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Gohan.jpeg",
+        "abilities": ["Masenko", "Kamehameha", "Potential Unleashed"],
+        "transformation": ["Super Saiyan", "Ultimate Gohan"],
+        "team":{
+            "id": "team-7",
+            "name": "Universe 7",
+            "god_of_destruction": "Beerus",
+            "angel": "Whis",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-020",
+        "name": "Frieza",
+        "universe": 7,
+        "race": "Unknown",
+        "description": "Frieza is a powerful and ruthless warrior from Universe 7. He is known for his cruelty and his multiple transformations that greatly increase his power.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Friezapro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Frieza.jpeg",
+        "abilities": ["Death Beam", "Death Ball", "Emperor's Edge"],
+        "transformation": ["Final Form", "Golden Frieza"],
+        "team":{
+            "id": "team-7",
+            "name": "Universe 7",
+            "god_of_destruction": "Beerus",
+            "angel": "Whis",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-021",
+        "name": "Bergamo",
+        "universe": 9,
+        "race": "Wolf",
+        "description": "Bergamo is the eldest of the Trio of Danger from Universe 9. Known for his ability to grow stronger and larger by absorbing attacks, he is a formidable opponent.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Bergamopro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Bergamo.jpeg",
+        "abilities": ["Crusher Bergamo", "Wolfgang Penetrator"],
+        "transformation": ["Giant Bergamo"],
+        "team":{
+            "id": "team-9",
+            "name": "Universe 9",
+            "god_of_destruction": "Sidra",
+            "angel": "Mojito",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-022",
+        "name": "Basil",
+        "universe": 9,
+        "race": "Wolf",
+        "description": "Basil is the youngest of the Trio of Danger from Universe 9. He is known for his incredible kicking skills and agility, making him a swift and dangerous fighter.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Basilpro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Basil.jpeg",
+        "abilities": ["Shining Blaster", "Wolfgang Pressure", "Wolf Fang Pitching Fist"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-9",
+            "name": "Universe 9",
+            "god_of_destruction": "Sidra",
+            "angel": "Mojito",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-023",
+        "name": "Lavender",
+        "universe": 9,
+        "race": "Wolf",
+        "description": "Lavender is the middle brother of the Trio of Danger from Universe 9. He uses poison in his attacks to weaken and incapacitate his opponents.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Lanvenderpro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Lavender.jpeg",
+        "abilities": ["Poison Blow", "Wolfgang Amethyst"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-9",
+            "name": "Universe 9",
+            "god_of_destruction": "Sidra",
+            "angel": "Mojito",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-024",
+        "name": "Hyssop",
+        "universe": 9,
+        "race": "Unknown",
+        "description": "Hyssop is a warrior from Universe 9 who has the ability to generate and control ice. He can freeze his opponents and create ice-based attacks.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Hyssoppro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Hyssop.jpeg",
+        "abilities": ["Freezing Attack", "Ice Lance"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-9",
+            "name": "Universe 9",
+            "god_of_destruction": "Sidra",
+            "angel": "Mojito",
+            "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-025",
+        "name": "Murichim",
+        "universe": 10,
+        "race": "Unknown",
+        "description": "Murichim is a muscular and powerful warrior from Universe 10. He is known for his incredible strength and resilience in battle.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Murichimpro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Murichim.jpeg",
+        "abilities": ["Super Strength", "Resilience"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-10",
+        "name": "Universe 10",
+        "god_of_destruction": "Rumsshi",
+        "angel": "Kusu",
+        "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-026",
+        "name": "Obni",
+        "universe": 10,
+        "race": "Unknown",
+        "description": "Obni is a calm and composed warrior from Universe 10 who uses his agility and combat skills to outmaneuver his opponents.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Obnipro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Obni.jpeg",
+        "abilities": ["Agility", "Combat Skills"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-10",
+        "name": "Universe 10",
+        "god_of_destruction": "Rumsshi",
+        "angel": "Kusu",
+        "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-027",
+        "name": "Napapa",
+        "universe": 10,
+        "race": "Unknown",
+        "description": "Napapa is a sumo wrestler from Universe 10 who uses his size and strength to overpower his opponents. He is known for his grappling techniques.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Napapapro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Napapa.webp",
+        "abilities": ["Grappling", "Super Strength"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-10",
+        "name": "Universe 10",
+        "god_of_destruction": "Rumsshi",
+        "angel": "Kusu",
+        "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-028",
+        "name": "Rylibeu",
+        "universe": 10,
+        "race": "Unknown",
+        "description": "Rylibeu is a warrior from Universe 10 known for her unique appearance and combat abilities. She is a determined fighter who does not back down easily.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Rylibeupro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/rylibeu.jpg",
+        "abilities": ["Combat Skills"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-10",
+        "name": "Universe 10",
+        "god_of_destruction": "Rumsshi",
+        "angel": "Kusu",
+        "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-029",
+        "name": "Toppo",
+        "universe": 11,
+        "race": "Unknown",
+        "description": "Toppo is a warrior of justice from Universe 11 and the leader of the Pride Troopers. He is a candidate for the next God of Destruction and possesses immense power.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Toppro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Toppo.jpeg",
+        "abilities": ["Justice Flash", "Justice Crusher", "God of Destruction Mode"],
+        "transformation": ["God of Destruction Mode"],
+        "team":{
+            "id": "team-11",
+        "name": "Universe 11",
+        "god_of_destruction": "Belmod",
+        "angel": "Marcarita",
+        "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-030",
+        "name": "Jiren",
+        "universe": 11,
+        "race": "Unknown",
+        "description": "Jiren is the strongest member of the Pride Troopers from Universe 11. His immense strength and determination make him a nearly unbeatable opponent.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Jirenpro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Jiren.jpeg",
+        "abilities": ["Power Impact", "Overheat Magnetron", "Meditation"],
+        "transformation": ["Full Power"],
+        "team":{
+            "id": "team-11",
+        "name": "Universe 11",
+        "god_of_destruction": "Belmod",
+        "angel": "Marcarita",
+        "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-031",
+        "name": "Dyspo",
+        "universe": 11,
+        "race": "Unknown",
+        "description": "Dyspo is a member of the Pride Troopers from Universe 11 known for his incredible speed. He uses his speed to outmaneuver and overwhelm his opponents.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Dyspopro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Dyspo.jpeg",
+        "abilities": ["Light Bullet", "Justice Crush", "Super Maximum Light Speed Mode"],
+        "transformation": ["Super Maximum Light Speed Mode"],
+        "team":{
+            "id": "team-11",
+        "name": "Universe 11",
+        "god_of_destruction": "Belmod",
+        "angel": "Marcarita",
+        "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      },
+      {
+        "id": "char-032",
+        "name": "Kahseral",
+        "universe": 11,
+        "race": "Unknown",
+        "description": "Kahseral is a member of the Pride Troopers from Universe 11 and serves as their second-in-command. He is a skilled tactician and fighter, always striving for justice.",
+        "available": true,
+        "profilePicture": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Kahseralpro.png",
+        "avatar": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/Kahseral.jpeg",
+        "abilities": ["Justice Saber", "Justice Bomber"],
+        "transformation": ["Unknown"],
+        "team":{
+            "id": "team-11",
+        "name": "Universe 11",
+        "god_of_destruction": "Belmod",
+        "angel": "Marcarita",
+        "logo": "https://raw.githubusercontent.com/Stormzy22/dragon-ball-img/main/universes.png"
+        }
+      }
+    ]
+  }
+  
